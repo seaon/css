@@ -15,3 +15,8 @@ hr {
 	border: none;
 	outline: none;
 }
+
+.break {
+    word-wrap: break-word;
+    word-break: break-all;
+}
